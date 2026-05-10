@@ -244,7 +244,7 @@ body, .gradio-container {
 
 #stats-bar .stat-label {
     font-size: 0.65rem;
-    color: rgba(255,255,255,0.4);
+    color: rgba(255,255,255,0.75);
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.8px;
@@ -309,14 +309,14 @@ body, .gradio-container {
 .panel-title {
     font-size: 1.2rem;
     font-weight: 800;
-    color: #ffffff;
+    color: #ffffff !important;
     letter-spacing: -0.3px;
     margin-bottom: 4px;
 }
 
 .panel-sub {
     font-size: 0.82rem;
-    color: rgba(255,255,255,0.55);
+    color: rgba(255,255,255,0.75);
     font-weight: 400;
     margin-bottom: 16px;
 }
@@ -329,7 +329,7 @@ body, .gradio-container {
     border-radius: 12px !important;
 }
 
-.gradio-container textarea::placeholder { color: rgba(255,255,255,0.25) !important; }
+.gradio-container textarea::placeholder { color: rgba(255,255,255,0.55) !important; }
 
 /* ── BUTTONS ── */
 #analyze-btn {
