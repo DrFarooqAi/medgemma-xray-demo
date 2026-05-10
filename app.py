@@ -396,11 +396,14 @@ NAVBAR_HTML = """
 <div id="navbar">
     <div class="nav-logo">
         <div class="k-icon">M</div>
-        MedGemma&nbsp;Studio
+        <div>
+            MedGemma&nbsp;Studio
+            <div style="font-size:0.65rem;font-weight:500;color:rgba(255,255,255,0.45);letter-spacing:0.2px;margin-top:1px;">by Dr. Muhammad Farooq</div>
+        </div>
     </div>
     <div class="nav-center">
-        <a href="#">Overview</a>
-        <a href="#">Models</a>
+        <a href="https://drfarooqai.github.io/dr-farooq-cv/" target="_blank">Portfolio</a>
+        <a href="https://drfarooqai.github.io/articles/" target="_blank">Articles</a>
         <a href="https://github.com/DrFarooqAi" target="_blank">GitHub</a>
         <a href="https://huggingface.co/farooqgenai" target="_blank">HuggingFace</a>
     </div>
