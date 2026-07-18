@@ -11,8 +11,11 @@ AI-powered chest X-ray reporting using Google's open-source **MedGemma 1.5 4B** 
 **Try it instantly — no setup needed:**
 
 [![Open in HF Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-lg.svg)](https://huggingface.co/spaces/farooqgenai/medgemma-xray-demo)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrFarooqAi/medgemma-xray-demo/blob/main/medgemma_colab_demo.ipynb)
 
 **Direct link:** https://huggingface.co/spaces/farooqgenai/medgemma-xray-demo
+
+**Run on a free GPU:** open [`medgemma_colab_demo.ipynb`](medgemma_colab_demo.ipynb) in Google Colab (T4) for fast, streaming reports.
 
 ---
 
